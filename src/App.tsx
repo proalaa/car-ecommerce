@@ -1,12 +1,17 @@
-
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import AppLayout from "@/pages/AppLayout.tsx";
+import Home from "@/pages/Home.tsx";
 
 function App() {
-
   return (
-    <>
-        hello cars-ecommerce
-    </>
-  )
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<AppLayout />}>
+          <Route index element={<Home />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;

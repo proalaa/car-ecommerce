@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "price": 25000,
+    "mileage": 35000,
+    "engine": "2.5L 4-cylinder",
+    "transmission": "Automatic",
+    "imageUrl": "https://i.pinimg.com/originals/5c/3f/8d/5c3f8dfc6e397775855c478a712d3827.jpg"
+  },
+  {
+    "id": 2,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2018,
+    "price": 18000,
+    "mileage": 45000,
+    "engine": "1.5L Turbo 4-cylinder",
+    "transmission": "Manual",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2023-lightning-lap-honda-civic-type-r-mu-102-1675451016.jpg?crop=0.451xw:0.338xh;0.221xw,0.432xh&resize=1200:*"
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2021,
+    "price": 35000,
+    "mileage": 15000,
+    "engine": "5.0L V8",
+    "transmission": "Automatic",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2021-ford-mustang-mach-1-109-1592231891.jpg?crop=0.691xw:0.779xh;0.208xw,0.0625xh&resize=768:*"
+  },
+  {
+    "id": 4,
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "year": 2019,
+    "price": 40000,
+    "mileage": 25000,
+    "engine": "5.3L V8",
+    "transmission": "Automatic",
+    "imageUrl": "https://media.ed.edmunds-media.com/chevrolet/silverado-1500-ld/2019/oem/2019_chevrolet_silverado-1500-ld_extended-cab-pickup_custom_fq_oem_1_1600.jpg"
+  },
+  {
+    "id": 5,
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2017,
+    "price": 15000,
+    "mileage": 65000,
+    "engine": "2.5L 4-cylinder",
+    "transmission": "Automatic",
+    "imageUrl": "https://65e81151f52e248c552b-fe74cd567ea2f1228f846834bd67571e.ssl.cf1.rackcdn.com/ldm-images/2017-Nissan-Altima-Super-Black-Color.jpg"
+  },
+  {
+    "id": 6,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2022,
+    "price": 55000,
+    "mileage": 10000,
+    "engine": "3.0L Turbo 6-cylinder",
+    "transmission": "Automatic",
+    "imageUrl": "https://www.iihs.org/media/d1b0a09d-66e8-4c95-9519-486fc2b305c7/jXQeHg/News/2021/110921.jpg"
+  },
+  {
+    "id": 7,
+    "make": "BMW",
+    "model": "X20",
+    "year": 2023,
+    "price": 59000,
+    "mileage": 10000,
+    "engine": "3.0L Turbo 6-cylinder",
+    "transmission": "Automatic",
+    "imageUrl": "https://www.iihs.org/media/d1b0a09d-66e8-4c95-9519-486fc2b305c7/jXQeHg/News/2021/110921.jpg"
+  },
+  {
+    "id": 8,
+    "model": "sdf",
+    "year": "2021",
+    "make": "ford",
+    "price": "232",
+    "images": [
+      "blob:http://localhost:5173/44929207-0f27-4435-b1ec-b07adcfe592d"
+    ],
+    "imageUrl": "blob:http://localhost:5173/44929207-0f27-4435-b1ec-b07adcfe592d"
+  },
+  {
+    "id": 9,
+    "model": "3423",
+    "year": "2022",
+    "make": "honda",
+    "price": "34",
+    "images": [
+      "/uploads/1717945170355.jpg"
+    ],
+    "imageUrl": "/uploads/1717945170355.jpg"
+  },
+  {
+    "id": 10,
+    "model": "ff",
+    "year": "2022",
+    "make": "honda",
+    "price": "234",
+    "images": [
+      "blob:http://localhost:5173/c9f4cd0e-5f64-42dd-b894-2fec46b04e80"
+    ],
+    "imageUrl": "blob:http://localhost:5173/c9f4cd0e-5f64-42dd-b894-2fec46b04e80"
+  },
+  {
+    "id": 11,
+    "model": "324",
+    "year": "2021",
+    "make": "honda",
+    "price": "32",
+    "images": [
+      "blob:http://localhost:5173/c8959d11-6261-4ea8-b045-5a6ed6378012"
+    ],
+    "imageUrl": "blob:http://localhost:5173/c8959d11-6261-4ea8-b045-5a6ed6378012"
+  },
+  {
+    "id": 12,
+    "model": "aladdin",
+    "year": "2021",
+    "make": "honda",
+    "price": "23",
+    "images": [
+      "blob:http://localhost:5173/3bd59ecf-3a38-44e3-871f-22b4166916ee"
+    ],
+    "imageUrl": "blob:http://localhost:5173/3bd59ecf-3a38-44e3-871f-22b4166916ee"
+  },
+  {
+    "id": 13,
+    "model": "123",
+    "year": "2021",
+    "make": "toyota",
+    "mileage": "23",
+    "transmission": "automatic",
+    "engine": "v8",
+    "price": "43",
+    "images": [
+      "blob:http://localhost:5173/d0c17d50-8653-43f1-bb25-036a096fe402"
+    ],
+    "imageUrl": "blob:http://localhost:5173/d0c17d50-8653-43f1-bb25-036a096fe402"
+  },
+  {
+    "id": 14,
+    "model": "dsf",
+    "year": "2021",
+    "make": "honda",
+    "mileage": "3",
+    "transmission": "automatic",
+    "engine": "v8",
+    "price": "23",
+    "images": [
+      "blob:http://localhost:5173/a125f16e-256f-443d-9eb1-d0e58fba7c8b"
+    ],
+    "imageUrl": "blob:http://localhost:5173/a125f16e-256f-443d-9eb1-d0e58fba7c8b"
+  }
+]
